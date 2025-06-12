@@ -1,1 +1,2 @@
-## Multi-Camera People Tracking에 관한 테스트 코드 깃허브 입니다.
+## Multi-Camera People Tracking의 테스트 깃허브입니다. 
+
